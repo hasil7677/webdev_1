@@ -1,0 +1,82 @@
+{
+  "todo": [
+    {
+      "task": "go to the party",
+      "id": 1
+    },
+    {
+      "task": "Get up",
+      "id": 2
+    },
+    {
+      "task": "Brush",
+      "id": 3
+    },
+    {
+      "task": "Take a shower",
+      "id": 4
+    },
+    {
+      "task": "Check e-mail",
+      "id": 5
+    },
+    {
+      "task": " Walk dog",
+      "id": 6
+    }
+  ],
+  "progress": [
+    {
+      "task": "Work on HTML code",
+      "id": 1
+    },
+    {
+      "task": "Set Up servers",
+      "id": 2
+    },
+    {
+      "task": "Buy premium subscription",
+      "id": 3
+    },
+    {
+      "task": "Bring coffe to office",
+      "id": 4
+    }
+  ],
+  "done": [
+    {
+      "task": "Download All prerequisites",
+      "id": 1
+    },
+    {
+      "task": "Learn all the code for  project x",
+      "id": 2
+    },
+    {
+      "task": "Renew subcriptions",
+      "id": 3
+    },
+    {
+      "task": "Buy Food for Office Lunch",
+      "id": 4
+    },
+    {
+      "task": "Order MILK",
+      "id": 5
+    }
+  ],
+  "archive": [
+    {
+      "task": "Pay electrricity bill",
+      "id": 1
+    },
+    {
+      "task": "Pay All the employees",
+      "id": 2
+    },
+    {
+      "task": "Pay rent and renew lease",
+      "id": 3
+    }
+  ]
+}
